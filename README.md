@@ -1,10 +1,10 @@
 # y
 
-> y
+> easy-pos
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
